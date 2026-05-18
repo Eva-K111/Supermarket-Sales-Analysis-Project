@@ -12,6 +12,7 @@ Data Source
  I prepared the data for analysis by:  Standardization: Adjusted date/time formatting and removed null values.  Feature Engineering: Created a custom "Hour of Day" column to identify peak shopping periods.  Dimensional Modeling: Established relationships between relevant tables for seamless slicer interactivity.
 
  Key Insights
+ 
 Top Performing Region: Naypyitaw recorded the highest volume of sales.  
 Leading Branch: The Giza branch achieved the greatest gross income.  
 Peak Product Category: Food and Beverages emerged as the top-selling line.  
